@@ -1,7 +1,7 @@
-# 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
+# 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓ask Scheduler 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 🚀
 
 # ⭐ Introduction
-This project is a Full Stack Todo List Application which is built using the MongoDB, NodeJS, ExpressJS, CSS, Javascript. It implements all the basic functionalities of a todo list, i.e, CRUD Operations (Create Read Update Delete).
+This project is a Full Stack Task Scheduler List Application which is built using the MongoDB, NodeJS, ExpressJS, CSS, Javascript. It implements all the basic functionalities of a Task Scheduler list, i.e, CRUD Operations (Create Read Update Delete).
 
 Users are able to Create new tasks.
 Users are able to Read the created tasks data.
